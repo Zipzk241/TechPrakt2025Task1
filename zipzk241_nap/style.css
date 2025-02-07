@@ -22,8 +22,8 @@ main {
 
 .news {
     background: white;
-    margin-bottom: 20px;
-    padding: 15px;
+    margin-bottom: 18px;
+    padding: 16px;
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -31,13 +31,13 @@ main {
 
 .news:hover {
     transform: scale(1.03);
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 7px 16px rgba(0, 0, 0, 0.2);
 }
 
 .news img {
     max-width: 100%;
-    max-height: 500px;
-    border-radius: 5px;
+    max-height: 450px;
+    border-radius: 6px;
     transition: opacity 0.3s ease;
 }
 
